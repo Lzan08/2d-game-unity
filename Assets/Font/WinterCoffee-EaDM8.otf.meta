@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 48f83863b970eef4ea608bdc73ff1d2d
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 12
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Winter Coffee
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: b017777c62230d44e8a2b0295d9be09b, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
